@@ -13,12 +13,6 @@
 - 🐦 **Java GUI Game** – Flappy Bird-style physics, custom UI, OOP structure.
 - 🍽️ **Rudiz Grill Landing Page** – Responsive site with buttons for Menu, Google Maps, and WhatsApp.
 
-## 💼 Experience
-
-- **Founder @ StreamX** – Launched a startup focused on streaming solutions (2023–2025).
-- **Digital Support @ Rudiz Grill** – Improved digital order handling and communication (2020–2025).
-- **Cashier & Service Associate** – Customer-facing and operational experience (2019–2024).
-
 ## 🧠 Soft Skills
 
 - Effective communication
