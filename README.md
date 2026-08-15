@@ -1,56 +1,101 @@
-# 👋 Hi, I'm Chafic Al Hakim
+# Hi, I'm Chafic Al Hakim 👋
 
-🎓 **Computer Science Student** at the American University of Science and Technology (AUST) | Expected Graduation: 2026  
-💡 Building full-stack applications, ML pipelines, and AI-driven systems.  
-Cisco-certified and AUST Programming Olympiad Finalist with a focus on system design and shipping real, working projects.
+Computer Science student at the American University of Science and Technology (AUST) interested in software development, algorithms, backend engineering, and machine learning.
+
+I enjoy building projects from scratch and understanding how they work under the hood, from search algorithms and game systems to web applications and machine learning pipelines.
+
+## 🚀 Featured Projects
+
+### [Adrenaline — AI Pathfinding Visualizer](https://github.com/ChaficH/adrenaline-ai-pathfinding)
+
+**Python · Pygame · A* · BFS · DFS**
+
+Interactive pathfinding visualizer built around a weighted 40×40 grid.
+
+* Implements A*, BFS, and DFS
+* Supports cost-weighted terrain and impassable walls
+* Includes procedural maze generation and path carving
+* Tracks nodes explored, path length, terrain traversed, and total cost
+* Designed for direct comparison of search algorithms
+
+### [Customer Churn Prediction System](https://github.com/ChaficH/churn-prediction-system)
+
+**Python · Scikit-learn · Random Forest · MLP · SMOTE**
+
+End-to-end machine learning pipeline for customer churn classification.
+
+* Synthetic customer data generation
+* Data preprocessing and feature engineering
+* SMOTE for class imbalance
+* Random Forest hyperparameter tuning with GridSearchCV
+* Random Forest and MLP model comparison
+* ROC-AUC, precision, recall, and F1-score evaluation
+
+### PC Parts E-Commerce Platform
+
+**Node.js · Express.js · MySQL · JavaScript**
+
+Full-stack e-commerce application featuring:
+
+* RESTful APIs
+* User authentication
+* Product management
+* Shopping cart and order processing
+* MySQL database design
+* Protected routes and session-based authentication
+
+### 2D Side-Scrolling Runner
+
+**C# · Unity · 2D Physics · Unity UI**
+
+2D platformer developed in Unity featuring:
+
+* Player movement and jump physics
+* Rigidbody-based physics
+* Collision detection
+* Obstacle avoidance
+* Animation systems
+* Interactive UI menus
+* Continuous level progression
+
+## 🛠️ Technical Skills
+
+**Languages**
+
+Python · C++ · C# · Java · JavaScript · SQL · HTML · CSS
+
+**Backend & Databases**
+
+Node.js · Express.js · REST APIs · MySQL
+
+**Machine Learning**
+
+Scikit-learn · Random Forest · MLP · SMOTE · Model Evaluation
+
+**Development**
+
+Object-Oriented Programming · Data Structures & Algorithms · Database Design · Unity · Pygame
+
+**Tools**
+
+Git · GitHub
+
+## 🎓 Education
+
+**B.Sc. Computer Science**
+American University of Science and Technology (AUST)
+2023 – Present · GPA: 3.34/4.00
+
+AUST Programming Olympiad Finalist · 2023
+3rd Place · AUST C++ EXPO
+
+## 📜 Certifications
+
+* CCNA: Introduction to Networks — Cisco
+* CCNA: Devices & Initial Configuration — Cisco
+* IT Specialist in Python — Certiport & Pearson
+* CTF Participant — Semicolon Academy × GDG
 
 ---
 
-### 🛠️ Tech & Tools
-
-* **Languages:** Python · C++ · Java · JavaScript · SQL · HTML5 · CSS3 · XML
-* **Frameworks & Tools:** Node.js · Express.js · Pygame · MySQL · Git · GitHub · Android Studio · VS Code
-* **Technical Domains:** Full-Stack Development · Machine Learning · AI Algorithms · System & Database Design · REST APIs
-
----
-
-### 🚀 Projects
-
-* 🧠 **[Adrenaline: AI Pathfinding Visualizer](https://github.com/ChaficH/adrenaline-ai-pathfinding)** (2026)  
-  *Python · Pygame · A* Search · BFS · DFS*  
-  Interactive AI visualizer with a live analytics dashboard tracking nodes, path length, and cost on a weighted grid with procedural maze generation.
-
-* 📊 **[Customer Churn Prediction System](https://github.com/ChaficH/churn-prediction-system)** (2026)  
-  *Python · Random Forest · Neural Networks · SMOTE*  
-  End-to-end ML pipeline featuring data preprocessing, feature engineering, class imbalance resolution via SMOTE, and a live risk-scoring demo.
-
-* 💻 **[PC Parts E-Commerce Website](https://github.com/ChaficH)** (2025)  
-  *Node.js · Express.js · MySQL · JavaScript · HTML/CSS*  
-  Full-stack platform with RESTful APIs, secure session authentication, protected routes, cart management, and a normalized MySQL schema.
-
-* 🗡️ **[Text-Based C++ RPG](https://github.com/ChaficH)** (2023)  
-  *C++ · OOP*  
-  Console RPG featuring turn-based combat, XP progression, and shop mechanics built on modular OOP architecture.  
-  🏆 **3rd Place at the AUST C++ EXPO**
-
----
-
-### 📜 Certifications
-* 🌐 **CCNA:** Introduction to Networks & Devices & Initial Configuration (Cisco, 2024–2025)
-* 🐍 **IT Specialist in Python** (Certiport & Pearson, 2024)
-* 🛡️ **CTF Participant** (Semicolon Academy × GDG, 2025)
-
----
-
-### 🧠 Soft Skills & 🌍 Languages
-
-* **Soft Skills:** Problem-Solving · Team Collaboration · Analytical Thinking · Time Management
-* **Languages:** Arabic (Native) · English (Fluent) · French (Intermediate — DELF A1)
-
----
-
-### 📫 Connect with Me
-
-* 📧 **Email:** [chaficalhakim@gmail.com](mailto:chaficalhakim@gmail.com)
-* 💼 **LinkedIn:** [linkedin.com/in/chafic-al-hakim](https://www.linkedin.com/in/chafic-al-hakim)
-* 🐙 **GitHub:** [github.com/ChaficH](https://github.com/ChaficH)
+Thanks for stopping by. I'm continuously building and improving my projects as I expand my software engineering skills.
