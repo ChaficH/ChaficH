@@ -2,7 +2,7 @@
 
 Computer Science student at the American University of Science and Technology (AUST) interested in software development, algorithms, backend engineering, and machine learning.
 
-I enjoy building projects from scratch and understanding how they work under the hood, from search algorithms and game systems to web applications and machine learning pipelines.
+I enjoy building projects from scratch and understanding how they work, from search algorithms and machine learning pipelines to web applications and interactive software.
 
 ## 🚀 Featured Projects
 
@@ -12,11 +12,11 @@ I enjoy building projects from scratch and understanding how they work under the
 
 Interactive pathfinding visualizer built around a weighted 40×40 grid.
 
-* Implements A*, BFS, and DFS
-* Supports cost-weighted terrain and impassable walls
-* Includes procedural maze generation and path carving
-* Tracks nodes explored, path length, terrain traversed, and total cost
-* Designed for direct comparison of search algorithms
+- Implements A*, BFS, and DFS
+- Supports cost-weighted terrain and impassable walls
+- Includes procedural maze generation and path carving
+- Tracks nodes explored, path length, terrain traversed, and total cost
+- Designed for direct comparison of search algorithms
 
 ### [Customer Churn Prediction System](https://github.com/ChaficH/churn-prediction-system)
 
@@ -24,12 +24,13 @@ Interactive pathfinding visualizer built around a weighted 40×40 grid.
 
 End-to-end machine learning pipeline for customer churn classification.
 
-* Synthetic customer data generation
-* Data preprocessing and feature engineering
-* SMOTE for class imbalance
-* Random Forest hyperparameter tuning with GridSearchCV
-* Random Forest and MLP model comparison
-* ROC-AUC, precision, recall, and F1-score evaluation
+- Data generation, preprocessing, and feature engineering
+- SMOTE for handling class imbalance
+- Random Forest hyperparameter tuning with GridSearchCV
+- Random Forest and MLP model comparison
+- ROC-AUC, precision, recall, and F1-score evaluation
+
+## 💻 Other Projects
 
 ### PC Parts E-Commerce Platform
 
@@ -37,12 +38,12 @@ End-to-end machine learning pipeline for customer churn classification.
 
 Full-stack e-commerce application featuring:
 
-* RESTful APIs
-* User authentication
-* Product management
-* Shopping cart and order processing
-* MySQL database design
-* Protected routes and session-based authentication
+- RESTful APIs
+- User authentication
+- Product management
+- Shopping cart and order processing
+- MySQL database design
+- Protected routes and session-based authentication
 
 ### 2D Side-Scrolling Runner
 
@@ -50,51 +51,61 @@ Full-stack e-commerce application featuring:
 
 2D platformer developed in Unity featuring:
 
-* Player movement and jump physics
-* Rigidbody-based physics
-* Collision detection
-* Obstacle avoidance
-* Animation systems
-* Interactive UI menus
-* Continuous level progression
+- Player movement and jump physics
+- Rigidbody-based physics
+- Collision detection
+- Obstacle avoidance
+- Animation systems
+- Interactive UI menus
+- Continuous level progression
+
+## 🏆 Earlier Projects
+
+### [Avaloria — C++ Text-Based RPG](https://github.com/ChaficH/Avaloria)
+
+**C++ · Console Application · RPG**
+
+One of my first larger C++ projects, developed during my first year of Computer Science.
+
+The game features turn-based combat, exploration, inventory management, an in-game shop, puzzles, and multiple mini-games.
+
+**3rd Place — AUST C++ EXPO, 2023**
+
+The project was developed incrementally as I learned C++ and represents an early stage of my programming journey.
 
 ## 🛠️ Technical Skills
 
-**Languages**
-
+**Languages:**  
 Python · C++ · C# · Java · JavaScript · SQL · HTML · CSS
 
-**Backend & Databases**
-
+**Backend & Databases:**  
 Node.js · Express.js · REST APIs · MySQL
 
-**Machine Learning**
-
+**Machine Learning:**  
 Scikit-learn · Random Forest · MLP · SMOTE · Model Evaluation
 
-**Development**
-
+**Development:**  
 Object-Oriented Programming · Data Structures & Algorithms · Database Design · Unity · Pygame
 
-**Tools**
-
+**Tools:**  
 Git · GitHub
 
 ## 🎓 Education
 
-**B.Sc. Computer Science**
-American University of Science and Technology (AUST)
+**B.Sc. Computer Science**  
+American University of Science and Technology (AUST)  
 2023 – Present · GPA: 3.34/4.00
 
-AUST Programming Olympiad Finalist · 2023
-3rd Place · AUST C++ EXPO
+**Achievements**
+- AUST Programming Olympiad Finalist — 2023
+- 3rd Place — AUST C++ EXPO — 2023
 
 ## 📜 Certifications
 
-* CCNA: Introduction to Networks — Cisco
-* CCNA: Devices & Initial Configuration — Cisco
-* IT Specialist in Python — Certiport & Pearson
-* CTF Participant — Semicolon Academy × GDG
+- CCNA: Introduction to Networks — Cisco
+- CCNA: Devices & Initial Configuration — Cisco
+- IT Specialist in Python — Certiport & Pearson
+- CTF Participant — Semicolon Academy × GDG
 
 ---
 
