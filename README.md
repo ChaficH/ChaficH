@@ -16,7 +16,7 @@ Cisco-certified and AUST Programming Olympiad Finalist with a focus on system de
 
 ### 🚀 Projects
 
-* 🧠 **[Adrenaline: AI Pathfinding Visualizer](https://github.com/ChaficH/adrenaline-ai-pathfinding-visualizer)** (2026)  
+* 🧠 **[Adrenaline: AI Pathfinding Visualizer](https://github.com/ChaficH/adrenaline-ai-pathfinding)** (2026)  
   *Python · Pygame · A* Search · BFS · DFS*  
   Interactive AI visualizer with a live analytics dashboard tracking nodes, path length, and cost on a weighted grid with procedural maze generation.
 
