@@ -59,7 +59,7 @@ Full-stack e-commerce application featuring:
 - Interactive UI menus
 - Continuous level progression
 
-## 🏆 Earlier Projects
+## 🏆 Early Project & Achievement
 
 ### [Avaloria — C++ Text-Based RPG](https://github.com/ChaficH/Avaloria)
 
@@ -71,7 +71,7 @@ The game features turn-based combat, exploration, inventory management, an in-ga
 
 **3rd Place — AUST C++ EXPO, 2023**
 
-The project was developed incrementally as I learned C++ and represents an early stage of my programming journey.
+Avaloria represents an early stage of my programming journey and my first experience building a larger interactive application in C++.
 
 ## 🛠️ Technical Skills
 
@@ -96,7 +96,8 @@ Git · GitHub
 American University of Science and Technology (AUST)  
 2023 – Present · GPA: 3.34/4.00
 
-**Achievements**
+### Achievements
+
 - AUST Programming Olympiad Finalist — 2023
 - 3rd Place — AUST C++ EXPO — 2023
 
