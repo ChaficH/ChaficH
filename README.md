@@ -20,7 +20,7 @@ Cisco-certified and AUST Programming Olympiad Finalist with a focus on system de
   *Python · Pygame · A* Search · BFS · DFS*  
   Interactive AI visualizer with a live analytics dashboard tracking nodes, path length, and cost on a weighted grid with procedural maze generation.
 
-* 📊 **[Customer Churn Prediction System](https://github.com/ChaficH)** (2026)  
+* 📊 **[Customer Churn Prediction System](https://github.com/ChaficH/churn-prediction-system)** (2026)  
   *Python · Random Forest · Neural Networks · SMOTE*  
   End-to-end ML pipeline featuring data preprocessing, feature engineering, class imbalance resolution via SMOTE, and a live risk-scoring demo.
 
