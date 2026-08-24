@@ -29,7 +29,7 @@ A full-stack desktop application designed around local-first document processing
 
 ---
 
-### [🧭 Adrenaline](https://github.com/ChaficH/Adrenaline)
+### [🧭 Adrenaline](https://github.com/ChaficH/adrenaline-ai-pathfinding)
 
 **AI Pathfinding Visualizer**
 
