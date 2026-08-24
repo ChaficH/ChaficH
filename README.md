@@ -142,44 +142,6 @@ I also regularly practice **data structures and algorithms**.
 
 ---
 
-## 🌱 Open Source
-
-I believe good software improves when people build it together.
-
-**Contributions to my projects are welcome**, including:
-
-* Bug reports
-* Feature ideas
-* Documentation improvements
-* Tests
-* Performance improvements
-* Code contributions
-
-If you find something interesting in one of my repositories, feel free to open an issue or pull request.
-
----
-
-## 🎓 Education
-
-**American University of Science and Technology (AUST)**
-Computer Science
-
----
-
-## 📈 GitHub
-
-I'm continuously building, experimenting, and improving.
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChaficH\&show_icons=true\&hide_border=true\&rank_icon=github)](https://github.com/ChaficH)
-
----
-
-## 📫 Contact
-
-**GitHub:** [@ChaficH](https://github.com/ChaficH)
-
----
-
 ### ⭐ Interested in something?
 
 Check out **[VaultLens](https://github.com/ChaficH/vault-lens)** — one of my main projects and a good representation of what I'm currently building and learning.
