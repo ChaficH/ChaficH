@@ -14,7 +14,7 @@ I enjoy taking an idea from **problem → architecture → implementation → te
 
 **Privacy-focused local document management application**
 
-A full-stack desktop application designed around local-first document processing and privacy.
+A full-stack desktop application built around local-first document processing, organization, and search.
 
 **Tech:** TypeScript · React · Python · FastAPI · PostgreSQL · SQLAlchemy · Docker
 
@@ -26,6 +26,22 @@ A full-stack desktop application designed around local-first document processing
 * Automated backend testing
 * Dockerized database infrastructure
 * Privacy-focused architecture
+
+---
+
+### [🌤️ Weather AI Agent](https://github.com/ChaficH/weather-ai-agent)
+
+**AI-powered weather assistant**
+
+An AI agent that combines weather data with natural-language interaction to provide useful, contextual weather information.
+
+**Tech:** Python · AI/LLM APIs · APIs · Agent Development
+
+* Natural-language weather queries
+* External API integration
+* AI-powered responses
+* Tool/API-based agent workflow
+* Practical AI application
 
 ---
 
@@ -60,13 +76,13 @@ Interactive visualization of classical pathfinding algorithms on weighted grids.
 
 ---
 
-### [🛒 PC Parts E-Commerce Platform](https://github.com/ChaficH)
+## 📦 Additional Projects
+
+### PC Parts E-Commerce Platform
 
 **Full-stack e-commerce platform for browsing and managing PC components**
 
 **Tech:** Node.js · Express.js · MySQL · REST APIs
-
----
 
 ### [🎮 Avaloria](https://github.com/ChaficH/Avaloria)
 
@@ -97,7 +113,7 @@ Interactive visualization of classical pathfinding algorithms on weighted grids.
 ![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat\&logo=scikit-learn\&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat\&logo=pandas\&logoColor=white)
 
-Machine learning · Data preprocessing · Classification · Model evaluation · AI APIs
+Machine Learning · Data Processing · Classification · Model Evaluation · AI APIs · AI Agents
 
 ### Databases & Infrastructure
 
@@ -113,6 +129,7 @@ Machine learning · Data preprocessing · Classification · Model evaluation · 
 
 * Backend development
 * AI & machine learning
+* AI agents and integrations
 * API design
 * Data processing
 * Database systems
@@ -123,25 +140,6 @@ Machine learning · Data preprocessing · Classification · Model evaluation · 
 
 ---
 
-## 📚 Currently Learning
+### ⭐ Explore My Work
 
-I'm currently focused on becoming stronger in **backend engineering and applied AI**, with particular interest in:
-
-* Python
-* FastAPI
-* REST APIs
-* PostgreSQL
-* Docker
-* Testing
-* System design
-* Machine learning
-* AI integration
-* Clean and maintainable software architecture
-
-I also regularly practice **data structures and algorithms**.
-
----
-
-### ⭐ Interested in something?
-
-Check out **[VaultLens](https://github.com/ChaficH/vault-lens)** — one of my main projects and a good representation of what I'm currently building and learning.
+Start with **[VaultLens](https://github.com/ChaficH/vault-lens)** if you want to see what I'm currently building, or explore my other projects above to see my work across **backend engineering, AI, machine learning, and software development**.
