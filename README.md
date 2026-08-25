@@ -10,25 +10,6 @@ I enjoy taking an idea from **problem → architecture → implementation → te
 
 ## 🚀 Featured Projects
 
-### [🔐 VaultLens](https://github.com/ChaficH/vault-lens)
-
-**Privacy-focused local document management application**
-
-A full-stack desktop application built around local-first document processing, organization, and search.
-
-**Tech:** TypeScript · React · Python · FastAPI · PostgreSQL · SQLAlchemy · Docker
-
-* Local document storage and processing
-* Full-text document search
-* Document classification and confidence scoring
-* FastAPI backend
-* PostgreSQL database
-* Automated backend testing
-* Dockerized database infrastructure
-* Privacy-focused architecture
-
----
-
 ### [🌤️ Weather AI Agent](https://github.com/ChaficH/weather-ai-agent)
 
 **AI-powered weather assistant**
@@ -142,4 +123,4 @@ Machine Learning · Data Processing · Classification · Model Evaluation · AI 
 
 ### ⭐ Explore My Work
 
-Start with **[VaultLens](https://github.com/ChaficH/vault-lens)** if you want to see what I'm currently building, or explore my other projects above to see my work across **backend engineering, AI, machine learning, and software development**.
+Explore my projects above to see my work across **backend engineering, AI, machine learning, and software development**.
