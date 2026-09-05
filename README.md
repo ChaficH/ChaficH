@@ -1,6 +1,6 @@
 # Hi, I'm Chafic 👋
 
-### Computer Science Student · Software Engineering · AI/ML
+### Computer Science Student
 
 I'm a Computer Science student at **AUST** interested in building practical software, backend systems, and AI-powered applications.
 
