@@ -2,9 +2,7 @@
 
 ### Computer Science Student
 
-I'm a Computer Science student at **AUST** interested in building practical software, backend systems, and AI-powered applications.
-
-I enjoy taking an idea from **problem → architecture → implementation → testing → deployment** and learning the technologies needed along the way.
+I'm a Computer Science student at **AUST** interested in building practical software.
 
 ---
 
@@ -12,7 +10,7 @@ I enjoy taking an idea from **problem → architecture → implementation → te
 
 ### [🌤️ Weather AI Agent](https://github.com/ChaficH/weather-ai-agent)
 
-**AI-powered weather assistant**
+**Chatbot weather assistant**
 
 An AI agent that combines weather data with natural-language interaction to provide useful, contextual weather information.
 
