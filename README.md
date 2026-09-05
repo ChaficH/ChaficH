@@ -104,21 +104,6 @@ Machine Learning · Data Processing · Classification · Model Evaluation · AI 
 
 ---
 
-## 🧪 Engineering Interests
-
-* Backend development
-* AI & machine learning
-* AI agents and integrations
-* API design
-* Data processing
-* Database systems
-* Software architecture
-* Developer tooling
-* Open-source software
-* Privacy-focused applications
-
----
-
 ### ⭐ Explore My Work
 
 Explore my projects above to see my work across **backend engineering, AI, machine learning, and software development**.
