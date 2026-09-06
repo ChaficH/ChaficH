@@ -2,11 +2,31 @@
 
 ### Computer Science Student
 
-I'm a Computer Science student at **AUST** interested in building practical software.
+I'm a Computer Science student at **AUST** interested in building practical software, full-stack applications, and intelligent systems.
 
 ---
 
 ## 🚀 Featured Projects
+
+### [🍔 RUDIZ Grill](https://rudizgrill.com)
+
+**Production restaurant website with cloud deployment**
+
+Built and deployed a full-stack digital platform for RUDIZ Grill, featuring an interactive menu, customer ordering flow, accounts, coupons, reviews, local SEO, and a serverless backend.
+
+**Tech:** HTML · CSS · JavaScript · Cloudflare Pages · Cloudflare Functions · Cloudflare D1 · SQLite · Node.js · Express · PostgreSQL
+
+* Responsive customer-facing website
+* Interactive menu and cart system
+* WhatsApp ordering workflow
+* Customer accounts, coupons, and reviews
+* Serverless API with Cloudflare Pages Functions
+* Cloudflare D1 database
+* Custom domain deployment at **rudizgrill.com**
+* Local Express + PostgreSQL fallback architecture
+* Local SEO, sitemap, robots.txt, and Restaurant JSON-LD
+
+---
 
 ### [🌤️ Weather AI Agent](https://github.com/ChaficH/weather-ai-agent)
 
@@ -55,15 +75,9 @@ Interactive visualization of classical pathfinding algorithms on weighted grids.
 
 ---
 
-## 📦 Additional Projects
+## 🎮 Additional Projects
 
-### PC Parts E-Commerce Platform
-
-**Full-stack e-commerce platform for browsing and managing PC components**
-
-**Tech:** Node.js · Express.js · MySQL · REST APIs
-
-### [🎮 Avaloria](https://github.com/ChaficH/Avaloria)
+### [Avaloria](https://github.com/ChaficH/Avaloria)
 
 **Game development project created as part of a university team**
 
